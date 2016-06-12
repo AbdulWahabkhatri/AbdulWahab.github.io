@@ -1,0 +1,31 @@
+div{
+  
+    width:900px;
+    text-align: justify;
+   font-weight: 250;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: magenta;
+   background-color: cornsilk;
+   border-top:3px solid rgb(255,150,150);
+   border-left: 50px solid rgb(255,150,150);
+   border-right: 50px solid rgb(255,150,150);
+   padding: 5px;
+}
+body{
+    background-color: rgb(200,255,255)
+}
+h1{
+    border-top:3px solid rgb(255,150,150);
+   border-left: 50px solid rgb(255,150,150);
+   border-right: 50px solid rgb(255,150,150);
+   padding: 5px;
+   color: gainsboro;
+   background-color: mediumpurple;
+   margin:0px;
+   font-size:50px;
+   text-align: center;
+}
+
+
+
+
